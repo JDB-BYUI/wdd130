@@ -1,0 +1,42 @@
+
+body {
+    text-align: center;
+    background-color: pink;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+h1 {
+    color: white;
+    font-size: 300%;
+
+}
+
+h1:hover {
+    color: black;
+}
+
+.nelson {
+    font-size: 150%;
+}
+p1 {
+    color: white;
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+}
+ol.center li {
+ text-align: left;
+ margin-left: 23%;
+}
+
+img {
+    width: 30%;
+}
+
+p {
+    color: white;
+}
